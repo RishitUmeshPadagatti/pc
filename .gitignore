@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts & debug symbols
+*.o
+*.obj
+*.out
+*.dSYM/
+*.gch
+
+# Dynamic and static libraries
+*.dylib
+*.so
+*.a
+
+# Compiled executables for lab exercises
+program
+[0-9]
+[0-9][0-9]
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+*~
+
